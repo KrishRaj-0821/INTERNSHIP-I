@@ -5,7 +5,7 @@ This repository contains all the tasks, projects, and learning work completed du
 
 <h2>About Me</h2>
 I am a B.Tech CSE (2nd Year) student, passionate about learning new technologies and building practical projects.
-<a href="rajkrish.netlify.app"><strong>MY PORTFOLIO</strong></a>
+<a href="https://rajkrish.netlify.app"><strong>MY PORTFOLIO</strong></a>
 
 <h2>Repository Contents</h2>
 - Internship tasks
